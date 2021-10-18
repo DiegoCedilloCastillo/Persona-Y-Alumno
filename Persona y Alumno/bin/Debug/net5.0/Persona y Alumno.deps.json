@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Persona y Alumno/1.0.0": {
+        "runtime": {
+          "Persona y Alumno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Persona y Alumno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.csproj.AssemblyReference.cache
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.AssemblyInfoInputs.cache
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.AssemblyInfo.cs
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.csproj.CoreCompileInputs.cache
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.exe
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.deps.json
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.runtimeconfig.json
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.runtimeconfig.dev.json
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.dll
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\ref\Persona y Alumno.dll
+C:\Users\dcedi\source\repos\Persona y Alumno\bin\Debug\net5.0\Persona y Alumno.pdb
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.dll
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\ref\Persona y Alumno.dll
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.pdb
+C:\Users\dcedi\source\repos\Persona y Alumno\obj\Debug\net5.0\Persona y Alumno.genruntimeconfig.cache
